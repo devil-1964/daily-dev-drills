@@ -1,3 +1,6 @@
+## 📅 29-07-2025
+- Smallest Subarrays With Maximum Bitwise OR
+
 ## 📅 28-07-2025
 - Count Number of Maximum Bitwise-OR Subsets
 
