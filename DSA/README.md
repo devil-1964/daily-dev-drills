@@ -1,3 +1,7 @@
+## 📅 01-08-2025
+
+* Pascal's Triangle
+
 ## 📅 31-07-2025
 
 * Bitwise ORs of Subarrays
