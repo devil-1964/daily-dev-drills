@@ -1,3 +1,5 @@
+# DSA Daily Tracker
+
 ## 📅 04-08-2025
 
 * Fruit Into Baskets
