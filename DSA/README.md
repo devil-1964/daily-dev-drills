@@ -1,10 +1,10 @@
 # DSA Progress
 
 **[LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)**: 36% (54/150)  
-![Progress](https://progress-bar.dev/36)
+![Progress](https://geps.dev/progress/36)
 
 **[Blind 75](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions)**: 29% (22/75)  
-![Progress](https://progress-bar.dev/29)
+![Progress](https://geps.dev/progress/29)
 
 ## Topic Priority
 - **High**: Array, String, Sorting and searching, Matrix, Tree, Graph
