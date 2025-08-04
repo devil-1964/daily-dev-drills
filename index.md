@@ -3,8 +3,6 @@ layout: default
 title: 🗓️ Daily Task List
 ---
 
-<div style="max-width: 100%; padding-left: 1rem; padding-right: 1rem;">
-
 # 🗓️ Daily Task List – DSA, OOD & Azure
 
 This repository tracks consistent daily progress in key software development areas:
@@ -30,7 +28,3 @@ This repository tracks consistent daily progress in key software development are
 ---
 
 _Updated: {{ site.time | date: "%B %d, %Y" }}_
-
-![Progress](https://img.shields.io/badge/Progress-29%25-blue)
-
-</div>
