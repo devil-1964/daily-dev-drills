@@ -3,13 +3,19 @@
 ## Resources
 
 ### System Design
+
+### Overall Structure
+![Overall Structure](image-1.png)
+
+### Types of System Design
+![Types of System Design](image.png)
+
 **[System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)** - Comprehensive system design guide
 
 ### Object-Oriented Design
 **[Coffee Machine OOD Example](https://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/coffee.pdf)** - Practical OOD case study
 
 ## Study Sections
-
 ### [System Design](./system-design/)
 Comprehensive notes on distributed systems, scalability, and architecture patterns.
 
