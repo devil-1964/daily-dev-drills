@@ -1,3 +1,7 @@
+## 📅 04-08-2025
+
+* Fruit Into Baskets
+
 ## 📅 02-08-2025
 
 * Pascal's Triangle
