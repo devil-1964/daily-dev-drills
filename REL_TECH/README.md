@@ -7,7 +7,7 @@
 
 ## Course Notes
 
-### [Backend Principles](/backend-principles/)
+### [Backend Principles](/backend-principles/README.md)
 Detailed notes for each lesson from the Backend Engineering Fundamentals course.
 
 ## Progress Log

@@ -1,14 +1,15 @@
 # Object-Oriented Design & System Design
 
-## Resources
-
-### System Design
-
 ### Overall Structure
 ![Overall Structure](image-1.png)
 
 ### Types of System Design
 ![Types of System Design](image.png)
+
+## Resources
+
+### System Design
+
 
 **[System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)** - Comprehensive system design guide
 
