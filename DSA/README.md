@@ -15,6 +15,7 @@
 
 | Date | Problem Name | Notes |
 |------|-------------|-------|
+| 05-08-2025 | Fruit Into Baskets II | |
 | 04-08-2025 | Fruit Into Baskets | |
 | 02-08-2025 | Pascal's Triangle | |
 | 31-07-2025 | Bitwise ORs of Subarrays | |
