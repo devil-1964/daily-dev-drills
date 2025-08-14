@@ -15,6 +15,7 @@
 
 | Date | Problem Name | Notes |
 |------|-------------|-------|
+| 14-08-2025 | Largest 3-Same-Digit Number in String | |
 | 13-08-2025 | Power of Three | |
 | 09-08-2025 | Power of Two | |
 | 05-08-2025 | Fruit Into Baskets II | |
