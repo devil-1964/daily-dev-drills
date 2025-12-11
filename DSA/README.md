@@ -27,3 +27,6 @@
 | 28-07-2025 | Count Number of Maximum Bitwise-OR Subsets | |
 | 27-07-2025 | Count Hills and Valleys in an Array | |
 | 26-07-2025 | Longest Harmonious Subsequence | |
+| 11-12-2025 | Count Covered Buildings | |
+| 11-12-2025 | Codeforces Contest | |
+| 11-12-2025 | Stack Histogram Rectangle Area | |
