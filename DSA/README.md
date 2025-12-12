@@ -30,3 +30,4 @@
 | 11-12-2025 | Count Covered Buildings | |
 | 11-12-2025 | Codeforces Contest | |
 | 11-12-2025 | Stack Histogram Rectangle Area | |
+| 12-12-2025 | Count Mentions Per User | |

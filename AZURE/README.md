@@ -4,7 +4,7 @@
 
 ## Daily Progress
 
-- [Day 0](./DAY0/)
+- [Day 0](./DAY0/README.md)✅
 - [Day 1](./DAY1/README.md)
 - [Day 2](./DAY2/)
 - [Day 3](./DAY3/)
