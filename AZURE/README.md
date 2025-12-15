@@ -1,6 +1,6 @@
 # Azure
 
-![Azure Microsoft](image.png)
+![Azure Cloud](image.png)
 
 ## Daily Progress
 
