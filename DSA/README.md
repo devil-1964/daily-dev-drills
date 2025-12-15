@@ -33,4 +33,6 @@
 | 12-12-2025 | Count Mentions Per User | |
 | 13-12-2025 | Number of Students Unable to Eat Lunch | |
 | 13-12-2025 | Coupon Code Validator | |
-| 13-12-2025 | Letter Combinations of a Phone Number | |
+| 13-12-2025 | Letter Combinations of a Phone Number | | 
+| 14-12-2025 | Kids With the Greatest Number of Candies | | 
+| 14-12-2025 | Number of Ways to Divide a Long Corridor | | 
