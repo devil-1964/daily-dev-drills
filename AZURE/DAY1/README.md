@@ -10,13 +10,11 @@
 ### Types of Cloud Deployments
 
 - Private Cloud: Cloud infrastructure operated solely for a single organization.
-
   - Maintaining control over data and security.
   - Customization to meet specific business needs.
 
 
 - Public Cloud: Cloud services offered over the public internet and available to anyone.
-
   - Cost-effective and scalable.
   - Managed by third-party providers.
   - Scale without changing underlying infrastructure.
@@ -25,7 +23,6 @@
 
 
 - Hybrid Cloud: A combination of private and public clouds, allowing data and applications to be shared between them.
-
   - Flexibility to choose optimal deployment for each workload.
   - Enhanced security for sensitive data.
   - Cost efficiency by leveraging public cloud resources when needed.
@@ -47,7 +44,7 @@
   - SaaS (Software as a Service): Delivers software applications over the internet, on a subscription basis.
   Pay as you go model, ready to use applications.
 
-  ![alt text](image-1.png)
+![Shared Responsibility Model](image-1.svg)
 
 ### Cloud Benifits
 - High Availability
@@ -63,13 +60,32 @@
 
 ### Related Concepts
 
-- Virtualization: The creation of a virtual version of something, such as a server or storage device.
-- Hypervisor: Software that creates and runs virtual machines.
-- API: A set of protocols for building and interacting with software applications. Communication between different software intermediaries. Cloud and API are related as APIs enable interaction with Cloud services that are written by Cloud providers.
-- Regions: Geographical areas where cloud providers have data centers.
-- Availability Zones: Isolated locations within data center regions that provide redundancy and reliability.
-- Scalability: The ability to increase or decrease IT resources as needed to meet changing demand.
-- Elasticity: The ability to automatically adjust resources based on demand.
-- High Availability: Ensuring that cloud services are consistently operational and accessible.
-- Disaster Recovery: Strategies and processes for recovering data and applications in the event of a disaster.
-- Agility: The ability to quickly adapt to changes and deploy new applications or services.
+- **Virtualization:** Creating virtual versions of resources like servers or storage to maximize hardware use.  
+  *Example: Running several virtual servers on one physical machine.*
+
+- **Hypervisor:** Software that enables virtualization by running and managing virtual machines.  
+  *Example: VMware ESXi, Microsoft Hyper-V.*
+
+- **API (Application Programming Interface):** A set of rules for software to communicate and interact.  
+  *Example: Using REST APIs to automate cloud resource management.*
+
+- **Regions:** Physical locations around the world where cloud providers host data centers.  
+  *Example: Azure "East US" or "West Europe".*
+
+- **Availability Zones:** Separate, isolated locations within a region for higher redundancy and reliability.  
+  *Example: Deploying resources across zones to ensure uptime if one fails.*
+
+- **Scalability:** The ability to grow or shrink resources to meet demand.  
+  *Example: Adding servers during peak usage.*
+
+- **Elasticity:** Automatically adjusting resources based on real-time demand.  
+  *Example: Auto-scaling web servers up or down as traffic changes.*
+
+- **High Availability:** Designing systems to minimize downtime and ensure continuous service.  
+  *Example: Using redundant servers and load balancers.*
+
+- **Disaster Recovery:** Plans and tools to restore data and services after failures or disasters.  
+  *Example: Backing up data to another region for quick recovery.*
+
+- **Agility:** Rapidly adapting to changes and deploying new solutions.  
+  *Example: Rolling out new app features in hours instead of weeks.*
