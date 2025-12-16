@@ -38,3 +38,4 @@
 | 14-12-2025 | Number of Ways to Divide a Long Corridor | | 
 | 15-12-2025 | Number of Smooth Descent Periods of a Stock | | 
 | 16-12-2025 | Reverse Words in a String | | 
+| 16-12-2025 | String Compression | | 
