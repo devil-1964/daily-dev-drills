@@ -39,3 +39,5 @@
 | 15-12-2025 | Number of Smooth Descent Periods of a Stock | | 
 | 16-12-2025 | Reverse Words in a String | | 
 | 16-12-2025 | String Compression | | 
+| 19-12-2025 | Is Subsequence | | 
+| 19-12-2025 | Move Zeros | | 
