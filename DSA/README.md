@@ -41,3 +41,4 @@
 | 16-12-2025 | String Compression | | 
 | 19-12-2025 | Is Subsequence | | 
 | 19-12-2025 | Move Zeros | | 
+| 20-12-2025 | Delete Columns to Make Sorted | | 
