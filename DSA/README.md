@@ -42,3 +42,8 @@
 | 19-12-2025 | Is Subsequence | | 
 | 19-12-2025 | Move Zeros | | 
 | 20-12-2025 | Delete Columns to Make Sorted | | 
+| 21-12-2025 | Container With Most Water | | 
+| 21-12-2025 | Queue at the School | | 
+| 21-12-2025 | Borze | | 
+| 21-12-2025 | Beautiful Year | | 
+
