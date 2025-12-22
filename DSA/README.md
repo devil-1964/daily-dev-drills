@@ -46,4 +46,7 @@
 | 21-12-2025 | Queue at the School | | 
 | 21-12-2025 | Borze | | 
 | 21-12-2025 | Beautiful Year | | 
-
+| 22-12-2025 | Palindrome Linked List | | 
+| 22-12-2025 | Implement Queue using Stack | | 
+| 22-12-2025 | Minimum Number of Operations to Have Distinct Elements | | 
+| 22-12-2025 | Max Number of K-Sum Pairs | | 
