@@ -52,3 +52,4 @@
 | 22-12-2025 | Max Number of K-Sum Pairs | | 
 | 23-12-2025 | Find the Highest Altitude | | 
 | 23-12-2025 | Find Pivot Index | | 
+| 24-12-2025 | Apple Redistribution into Boxes | | 
