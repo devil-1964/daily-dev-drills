@@ -53,3 +53,4 @@
 | 23-12-2025 | Find the Highest Altitude | | 
 | 23-12-2025 | Find Pivot Index | | 
 | 24-12-2025 | Apple Redistribution into Boxes | | 
+| 25-12-2025 | Time needed to Buy Tickets | | 
