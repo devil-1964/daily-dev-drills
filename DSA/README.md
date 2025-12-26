@@ -57,3 +57,5 @@
 | 26-12-2025 | Combinations | | 
 | 26-12-2025 | Generate Parantheses | | 
 | 26-12-2025 | Subsets | | 
+| 26-12-2025 | Group Anagram | | 
+| 26-12-2025 | Ransome Note | | 
