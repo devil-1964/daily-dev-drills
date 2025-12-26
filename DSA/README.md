@@ -54,3 +54,6 @@
 | 23-12-2025 | Find Pivot Index | | 
 | 24-12-2025 | Apple Redistribution into Boxes | | 
 | 25-12-2025 | Time needed to Buy Tickets | | 
+| 26-12-2025 | Combinations | | 
+| 26-12-2025 | Generate Parantheses | | 
+| 26-12-2025 | Subsets | | 
