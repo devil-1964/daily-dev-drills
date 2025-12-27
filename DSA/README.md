@@ -60,3 +60,5 @@
 | 26-12-2025 | Group Anagram | | 
 | 26-12-2025 | Ransome Note | | 
 | 26-12-2025 | Minimum Penalty for the Shop | | 
+| 27-12-2025 | Leaf-Similar Trees | | 
+| 27-12-2025 | Maximum Depth of Binary Tree | | 
