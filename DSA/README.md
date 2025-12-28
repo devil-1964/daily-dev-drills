@@ -62,3 +62,5 @@
 | 26-12-2025 | Minimum Penalty for the Shop | | 
 | 27-12-2025 | Leaf-Similar Trees | | 
 | 27-12-2025 | Maximum Depth of Binary Tree | | 
+| 28-12-2025 | Count Negative Numbers in a Sorted Matrix | | 
+| 29-12-2025 | Last Stone Weight | | 
