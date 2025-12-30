@@ -65,3 +65,5 @@
 | 28-12-2025 | Count Negative Numbers in a Sorted Matrix | | 
 | 29-12-2025 | Last Stone Weight | | 
 | 29-12-2025 | Delete the Middle Node of a Linked List | | 
+| 29-12-2025 | Magic Squares In Grid | | 
+| 29-12-2025 | Coin Change | | 
