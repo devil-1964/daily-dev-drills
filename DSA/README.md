@@ -67,3 +67,4 @@
 | 29-12-2025 | Delete the Middle Node of a Linked List | | 
 | 29-12-2025 | Magic Squares In Grid | | 
 | 29-12-2025 | Coin Change | | 
+| 30-12-2025 | Palindrome Linked List | | 
