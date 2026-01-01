@@ -69,4 +69,4 @@
 | 30-12-2025 | Coin Change | | 
 | 31-12-2025 | Palindrome Linked List | | 
 🌟 Happy New Year 2026
-| 01-01-2026 | Palindrome Linked List | | 
+| 01-01-2026 | Plus One | | 
